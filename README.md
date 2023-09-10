@@ -2,7 +2,7 @@
 
 Coexist is a tool that finds compatible jailbreaks for your iPhone.
 
-Special thanks to @Emiyl for allowing me to use AppleDB API.
+Special thanks to [@emiyl](https://github.com/emiyl) for allowing me to use [AppleDB API](https://github.com/littlebyteorg/appledb/tree/gh-pages).
 
 # Features:
 - Search compatible jailbreaks.
