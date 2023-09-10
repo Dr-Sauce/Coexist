@@ -6,11 +6,12 @@ Special thanks to [@emiyl](https://github.com/emiyl) for allowing me to use [App
 
 # Features:
 - Search compatible jailbreaks.
+- Open official website, tutorial(wiki).
 - Install TrollStore on supported devices.
 
 # How to install:
 
-1. Go to [**releases**](https://github.com/Dr-Sauce/ReVancedNotifier/releases/latest) and download the latest version.
+1. Go to [**releases**](https://github.com/Dr-Sauce/Coexist/releases/latest) and download the latest version.
 
 2. Open Shortcut.
 
