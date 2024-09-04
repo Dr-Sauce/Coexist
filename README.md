@@ -6,6 +6,8 @@ Powered by [AppleDB](https://appledb.dev/) API. (Thanks to [@emiyl](https://gith
 
 https://github.com/Dr-Sauce/Coexist/assets/82555878/a0b645fc-5164-4d3f-9bcb-43b5a6615cd3
 
+Designed to work on iOS 15. (But also works on other versions)
+
 # Features:
 - Search compatible jailbreaks.
 - Open official website, tutorial.
