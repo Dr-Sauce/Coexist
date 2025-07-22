@@ -1,12 +1,10 @@
 # Coexist
 
-Coexist is a tool that finds compatible jailbreaks for your iPhone.
-
-Powered by [AppleDB](https://appledb.dev/) API. (Thanks to [@emiyl](https://github.com/emiyl))
-
-https://github.com/Dr-Sauce/Coexist/assets/82555878/a0b645fc-5164-4d3f-9bcb-43b5a6615cd3
+Find compatible jailbreaks for your iPhone.
 
 Designed to work on iOS 15. (But also works on other versions)
+
+https://github.com/Dr-Sauce/Coexist/assets/82555878/a0b645fc-5164-4d3f-9bcb-43b5a6615cd3
 
 # Features:
 - Search compatible jailbreaks.
@@ -26,4 +24,6 @@ Designed to work on iOS 15. (But also works on other versions)
 [Shortcut Updater](https://github.com/Dr-Sauce/ShortcutUpdater) ([Dr-Sauce](https://github.com/Dr-Sauce))
 
 # Credits:
-[Dr. Sauce](https://github.com/dr-sauce) ([SAUCE COMPANY](https://m.blog.naver.com/saucecompany_))
+**Developer:** [Dr. Sauce](https://github.com/dr-sauce) ([SAUCE COMPANY](https://m.blog.naver.com/saucecompany_))
+
+**API:** [@emiyl](https://github.com/emiyl)
