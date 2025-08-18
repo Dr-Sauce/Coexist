@@ -2,19 +2,19 @@
 
 Find compatible jailbreaks for your iPhone.
 
-Designed to work on iOS 15. (But also works on other versions)
-
-https://github.com/Dr-Sauce/Coexist/assets/82555878/a0b645fc-5164-4d3f-9bcb-43b5a6615cd3
+<img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/917864d1-c571-4742-93f2-7a76f6d6c10a" />
 
 # Features:
 - Search compatible jailbreaks.
 - Open official website, tutorial.
 
-# How to install:
+# Install:
 
-1. Go to [**releases**](https://github.com/Dr-Sauce/Coexist/releases/latest) and download the latest version.
+1. Go to [**Releases**](https://github.com/Dr-Sauce/Coexist/releases/latest).
+2. Press iCloud link → **Add Shortcut**.
 
-2. Open Shortcut.
+# Teaser:
+https://github.com/Dr-Sauce/Coexist/assets/82555878/a0b645fc-5164-4d3f-9bcb-43b5a6615cd3
 
 # Source:
 [AppleDB API](https://github.com/littlebyteorg/appledb/tree/gh-pages) ([iOS CFW Guide](https://ios.cfw.guide/))
