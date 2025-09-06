@@ -2,8 +2,7 @@
 
 Find compatible jailbreaks for your iPhone.
 
-**Recommended:** ~iOS 15.
-**Supported:** ~iOS 18.1.1.
+**Supports devices on ~iOS 18.1.1.**
 
 <img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/917864d1-c571-4742-93f2-7a76f6d6c10a" />
 
